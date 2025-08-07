@@ -22,8 +22,8 @@ demo = gr.Interface(
 )
 
 
-
-demo.launch(share=True) # using share=True to make a public URL for sharing
+demo.launch()
+# demo.launch(share=True) # using share=True to make a public URL for sharing
 
 # More notes:
 # "Custom Demos with gr.Blocks"
