@@ -1,15 +1,4 @@
-# import unittest
-#
-#
-# class MyTestCase(unittest.TestCase):
-#     def test_something(self):
-#         self.assertEqual(True, False)  # add assertion here
-#
-#
-# if __name__ == '__main__':
-#     unittest.main()
-
-# testing out gradio
+# testing out gradio using demo from: https://www.gradio.app/guides/quickstart#chatbots-with-gr-chat-interface
 
 # importing gradio
 import gradio as gr
