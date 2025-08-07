@@ -5,11 +5,12 @@ title: Mood-Generator-Planning
 
 # Mood Generator Project Planning
 
+---
 ## Table of Contents
 
 1. [Brainstorm](#Brainstorm)
-1. [Steps](#Steps)
-
+2. [Steps](#Steps)
+---
 # Brainstorm
 
 ### Project Overview
@@ -24,6 +25,8 @@ Use cases include:
 - Gradio: For the user interface and demo
 - NLP to extract key themes, etc.:
     - Options: spaCy, transformers (BERT, SentenceTransformers)
+    - sentence transformer: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+    - tokenization/keywords: https://spacy.io/usage/spacy-101#features
 - Image APIs, Pinterest API
 - Possibly image generation models
     - Options: DALL·E (via OpenAI API), Stable Diffusion (locally or via Hugging Face)
