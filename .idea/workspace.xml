@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d65ee013-5eba-42cb-828f-6f9ac0c194b6" name="Changes" comment="Adding Project Planning Document">
-      <change afterPath="$PROJECT_DIR$/NLP/input_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/Mood-Generator-Notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/Mood-Generator-Planning.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/Mood-Generator-Planning.md" afterDir="false" />
+    <list default="true" id="d65ee013-5eba-42cb-828f-6f9ac0c194b6" name="Changes" comment="Updating NLP code and notes">
+      <change afterPath="$PROJECT_DIR$/NLP/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/input_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/input_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,24 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Amrit-Kaur05"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Amrit-Kaur05&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Amrit-Kaur05/Mood-Generator",
-    "accountId": "0674949a-185c-4169-bedf-730f1a5851a4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Amrit-Kaur05/Mood-Generator&quot;,
+    &quot;accountId&quot;: &quot;0674949a-185c-4169-bedf-730f1a5851a4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30y8hAQTq6Paas3nicr170A7zJx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,6 +53,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Gradio_Practice.executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.application.executor": "Run",
+    "Python.getting_input.executor": "Run",
     "Python.input_analysis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -120,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754592143582</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updating NLP code and notes">
+      <option name="closed" value="true" />
+      <created>1754597683947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754597683947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +141,7 @@
     <MESSAGE value="Making notes on Gradio" />
     <MESSAGE value="Adding a rough project spec" />
     <MESSAGE value="Adding Project Planning Document" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Project Planning Document" />
+    <MESSAGE value="Updating NLP code and notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating NLP code and notes" />
   </component>
 </project>
