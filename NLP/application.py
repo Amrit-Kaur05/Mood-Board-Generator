@@ -1,5 +1,3 @@
-# testing out gradio using demo from: https://www.gradio.app/guides/quickstart#chatbots-with-gr-chat-interface
-
 # importing gradio
 import gradio as gr
 
