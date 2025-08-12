@@ -15,7 +15,7 @@ def board(input):
     images = image_urls(keywords)
     # from api import image_urls
 
-    return images[1]
+    return images[:4]
     # this will return the mood board
 
 
@@ -30,7 +30,7 @@ def process(input):
     doc = nlp(input)
     keywords = [token.text for token in doc if token.pos_ in ["ADJ", "NOUN"]]
     print(keywords)
-    print(" ".join(keywords))
+    # print(" ".join(keywords))
     return " ".join(keywords)
     # print(keywords)
 
@@ -44,7 +44,7 @@ def image_urls(keywords):
 
     # Get first 5 image URLs
     image_urls = [item['urls']['small'] for item in data['results'][:5]]
-    print(image_urls)
+    # print(image_urls)
     return image_urls
 
 
@@ -68,8 +68,13 @@ with gr.Blocks() as demo:
     with gr.Row():
         input = gr.Textbox(placeholder="What's your current mood?")
         btn = gr.Button("Run")
-    output = gr.Image()
-    btn.click(fn=board, inputs=input, outputs=output)
+    with gr.Row():
+        output1 = gr.Image()
+        output2 = gr.Image()
+    with gr.Row():
+        output3 = gr.Image()
+        output4 = gr.Image()
+    btn.click(fn=board, inputs=input, outputs=[output1,output2,output3,output4])
 
 demo.launch()
 

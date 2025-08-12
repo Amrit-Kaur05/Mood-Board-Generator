@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d65ee013-5eba-42cb-828f-6f9ac0c194b6" name="Changes" comment="Updating NLP code and notes">
       <change afterPath="$PROJECT_DIR$/NLP/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP/application.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/input_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/input_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/application.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Gradio_Practice.executor": "Run",
-    "Python.api.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.application.executor": "Run",
-    "Python.getting_input.executor": "Run",
-    "Python.input_analysis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Gradio_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.application.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getting_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Amrit\PycharmProjects\MoodGenerator\documentation" />
@@ -133,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754597683947</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating NLP code and notes">
+      <option name="closed" value="true" />
+      <created>1754874382158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754874382158</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
