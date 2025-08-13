@@ -15,7 +15,7 @@ This website will allow users to generator their own personalized mood board, al
   
 Use cases include:
 - 😊 Mood Boards: Users can input their current mood or a journal entry and get a personalized selection of images that reflect it!
-- 🖼️ Vision Boards: Users can input what they want, whether it be for room planning or future travels, and can generate a board that will give them inspiration for what they'd like!
+- 🖼️ Vision Boards: Users can input what they want, whether it be for room planning or future travels, and can generate a board for inspiration!
 - 💭 ... And so much more!
 
 ## Demo
