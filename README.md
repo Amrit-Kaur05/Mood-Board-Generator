@@ -6,15 +6,14 @@ This website will allow users to generator their own personalized mood board, al
 
 ## Built With
 
-- Python
-- Hugging Face SentenceTransformers
-- spaCy NLP tools
-- Unsplash API
-- Gradio
+- Language: Python
+- Tools; Hugging Face SentenceTransformers, spaCy NLP 
+- APIs: Unsplash API
+- Demo site: Gradio
 
-  ## Usage
+## Usage
   
-  Use cases include:
+Use cases include:
 - 😊 Mood Boards: Users can input their current mood or a journal entry and get a personalized selection of images that reflect it!
 - 🖼️ Vision Boards: Users can input what they want, whether it be for room planning or future travels, and can generate a board that will give them inspiration for what they'd like!
 - 💭 ... And so much more!
