@@ -7,7 +7,7 @@ This website will allow users to generator their own personalized mood board, al
 ## Built With
 
 - Language: Python
-- Tools; Hugging Face SentenceTransformers, spaCy NLP 
+- Tools: spaCy NLP 
 - APIs: Unsplash API
 - Demo site: Gradio
 
