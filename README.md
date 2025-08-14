@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This website will allow users to generator their own personalized mood board, allowing users to get inspiration for any of their needs! Using NLP and Unsplash Image API technologies, this website allows for quick, enjoyable visuals.
+"Mood Board Generator" allows users to generate their own personalized mood board, allowing users to get inspiration for any of their needs! Using NLP and Unsplash Image API technologies, this website allows for quick, enjoyable visuals.
 
 Note: I took this project as an opportunity to learn NLP essentials, so many code files have notes in the comments for understanding!
 
