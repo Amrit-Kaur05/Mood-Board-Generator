@@ -22,6 +22,10 @@ Use cases include:
 
 https://github.com/user-attachments/assets/f939058b-f8de-451c-8ef0-b021abfe7d55
 
+<img width="1273" height="651" alt="TravelPrompt" src="https://github.com/user-attachments/assets/7f6fc598-f83e-4402-a99d-cee6af29ca54" />
+
+<img width="1063" height="692" alt="dogPrompt" src="https://github.com/user-attachments/assets/385b73c2-9a00-4b48-8301-d773f4269db5" />
+
 Note: I took this project as an opportunity to learn NLP essentials, so many code files have notes in the comments for understanding!
 
 
